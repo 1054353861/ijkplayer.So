@@ -1,0 +1,3 @@
+# ijkplayer.So
+编译支持https的ijkplayer的so文件
+clon项目或者下载zip到本地解压，对应目录lib有编译好的支持https的so文件
